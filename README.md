@@ -1,3 +1,7 @@
+> [!CAUTION]
+> **This repository is an archive for the live project see** https://github.com/gem-pasteur/macsyfinder
+
+
 MacSyFinder
 ===========
 
